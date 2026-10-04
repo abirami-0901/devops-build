@@ -1,0 +1,10 @@
+.git
+.gitignore
+.dockerignore
+node_modules
+*.md
+screenshots
+Jenkinsfile
+*.sh
+docker-compose.yml
+.env
